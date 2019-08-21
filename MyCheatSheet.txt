@@ -1,0 +1,9 @@
+https://github.com/harshamaddoju/docker-training-java.git
+
+# The container name already in use
+docker rm -f containername
+
+#Login to the docker container
+docker exec -it java8-app-c1 bash
+
+#CTRL-D to come outside of the container

@@ -1,1 +1,1 @@
-echo '<EMP_ID> Running run.sh file - '$(date)
+echo '770-SMADDOJU Running run.sh file - '$(date)
